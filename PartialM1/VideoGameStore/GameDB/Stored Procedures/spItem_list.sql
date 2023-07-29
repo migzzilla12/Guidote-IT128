@@ -1,0 +1,8 @@
+﻿CREATE PROCEDURE [dbo].[spItem_list]
+AS
+
+begin
+	set nocount on;
+	SELECT [i].[OrderID], [i].[Code], [i].[Name] , [i].[Brand] , [i].[UnitPrice] , [i].[DateOrdered]
+	from dbo.Item i
+end

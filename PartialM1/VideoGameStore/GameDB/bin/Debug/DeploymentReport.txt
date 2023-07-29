@@ -1,0 +1,34 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The table [dbo].[Users] is being dropped and re-created since all non-computed columns within the table have been
+         redefined.
+
+** User actions
+     Rename
+       [dbo].[Users].[OrderID] (Column)
+       [dbo].[Users].[Code] (Column)
+       [dbo].[Users].[Name] (Column)
+     Drop
+       [dbo].[users] (Table)
+     Alter
+       [dbo].[Item] (Table)
+     Create
+       [dbo].[users] (Table)
+       [dbo].[spItem_add] (Procedure)
+       [dbo].[spItem_delete] (Procedure)
+       [dbo].[spItem_get] (Procedure)
+       [dbo].[spItem_list] (Procedure)
+       [dbo].[spItem_update] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[spUsers_register] (Procedure)
+
+The table [dbo].[Users] is being dropped and re-created since all non-computed columns within the table have been redefined.
+

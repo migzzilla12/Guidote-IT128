@@ -1,0 +1,10 @@
+D:\VS Community\VideoGameStore\GameDB\bin\Debug\GameDB.dacpac
+D:\VS Community\VideoGameStore\GameDB\obj\Debug\GameDB.sqlproj.AssemblyReference.cache
+D:\VS Community\VideoGameStore\GameDB\obj\Debug\Model.xml
+D:\VS Community\VideoGameStore\GameDB\obj\Debug\refactor.xml
+D:\VS Community\VideoGameStore\GameDB\obj\Debug\postdeploy.sql
+D:\VS Community\VideoGameStore\GameDB\obj\Debug\predeploy.sql
+D:\VS Community\VideoGameStore\GameDB\obj\Debug\GameDB.dll
+D:\VS Community\VideoGameStore\GameDB\obj\Debug\GameDB.pdb
+D:\VS Community\VideoGameStore\GameDB\bin\Debug\GameDB.dll
+D:\VS Community\VideoGameStore\GameDB\bin\Debug\GameDB.pdb

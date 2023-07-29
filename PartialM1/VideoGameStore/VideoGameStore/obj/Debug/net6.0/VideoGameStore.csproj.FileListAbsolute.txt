@@ -1,0 +1,12 @@
+D:\VS Community\VideoGameStore\VideoGameStore\obj\Debug\net6.0\VideoGameStore.csproj.AssemblyReference.cache
+D:\VS Community\VideoGameStore\VideoGameStore\obj\Debug\net6.0\VideoGameStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Community\VideoGameStore\VideoGameStore\obj\Debug\net6.0\VideoGameStore.AssemblyInfoInputs.cache
+D:\VS Community\VideoGameStore\VideoGameStore\obj\Debug\net6.0\VideoGameStore.AssemblyInfo.cs
+D:\VS Community\VideoGameStore\VideoGameStore\obj\Debug\net6.0\VideoGameStore.csproj.CoreCompileInputs.cache
+D:\VS Community\VideoGameStore\VideoGameStore\bin\Debug\net6.0\VideoGameStore.deps.json
+D:\VS Community\VideoGameStore\VideoGameStore\bin\Debug\net6.0\VideoGameStore.dll
+D:\VS Community\VideoGameStore\VideoGameStore\bin\Debug\net6.0\VideoGameStore.pdb
+D:\VS Community\VideoGameStore\VideoGameStore\obj\Debug\net6.0\VideoGameStore.dll
+D:\VS Community\VideoGameStore\VideoGameStore\obj\Debug\net6.0\refint\VideoGameStore.dll
+D:\VS Community\VideoGameStore\VideoGameStore\obj\Debug\net6.0\VideoGameStore.pdb
+D:\VS Community\VideoGameStore\VideoGameStore\obj\Debug\net6.0\ref\VideoGameStore.dll
