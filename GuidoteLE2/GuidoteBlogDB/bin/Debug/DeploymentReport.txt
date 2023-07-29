@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The type for column Password in table [dbo].[Users] is currently  NVARCHAR (50) NOT NULL but is being changed to 
+         NVARCHAR (16) NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible
+         with type  NVARCHAR (16) NOT NULL.
+
+** User actions
+     Alter
+       [dbo].[Users] (Table)
+
+** Supporting actions
+
+The type for column Password in table [dbo].[Users] is currently  NVARCHAR (50) NOT NULL but is being changed to  NVARCHAR (16) NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  NVARCHAR (16) NOT NULL.
+If this deployment is executed, changes to [dbo].[Users] might introduce run-time errors in [dbo].[spPosts_Detail].
+If this deployment is executed, changes to [dbo].[Users] might introduce run-time errors in [dbo].[spPosts_List].
+If this deployment is executed, changes to [dbo].[Users] might introduce run-time errors in [dbo].[spUsers_Authenticate].
+If this deployment is executed, changes to [dbo].[Users] might introduce run-time errors in [dbo].[spUsers_Register].
+

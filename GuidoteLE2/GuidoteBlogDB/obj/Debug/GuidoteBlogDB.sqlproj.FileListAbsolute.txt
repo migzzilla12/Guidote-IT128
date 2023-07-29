@@ -1,0 +1,10 @@
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\bin\Debug\GuidoteBlogDB.dacpac
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\bin\Debug\GuidoteBlogDB.dll
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\bin\Debug\GuidoteBlogDB.pdb
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\obj\Debug\GuidoteBlogDB.sqlproj.AssemblyReference.cache
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\obj\Debug\GuidoteBlogDB.dll
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\obj\Debug\GuidoteBlogDB.pdb
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\obj\Debug\Model.xml
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\obj\Debug\refactor.xml
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\obj\Debug\postdeploy.sql
+D:\VS Community\GuidoteLE2\GuidoteBlogDB\obj\Debug\predeploy.sql
